@@ -19,7 +19,7 @@ CONTENTS:
 5. And finally paste/git clone/unzip the rickrollDatapack into the folder
 
 
-  ***Setting up the commands**
+  ***Setting up the commands***
 1. Type the following commands into chat:
    > /gamerule commandBlockOutput true
    > /give @s minecraft:repeating_command_block
@@ -29,5 +29,5 @@ CONTENTS:
    > function code:rickroll
 4. Then close the command block and place a lever/powersource next to the repeating command block
 
-  ***Running**
+  ***Running***
 1. Now all you have to do is flick the lever to on. And watch as rick astley appears on your screen
